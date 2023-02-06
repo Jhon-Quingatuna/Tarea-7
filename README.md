@@ -12,17 +12,19 @@ TAREA 7
 
 ## OBJETIVOS 
 
-Relaciónar la corriente, voltaje y resistencia mediante la ley de ohm y poder calcular las mismas . Definir los términos energía y potencia para poder hacer calculos con los mismo , incorrporando la ley de ohm
+Analizar los concepos e identificar circuitos en serie-paralelo de inductancia con la finalidad de resolver problemas y ejercicios.
+
+Determinar los circuitos transitorios en el circuito RL explicando el funcionamiento de un inductor con una condición inicial de cero que tiene un circuito abierto cuando este está energizado
 
 ### Objetivo específico
 
-* Calcular la corriente , la resistencia y el voltaje en un circuito
+* Determinar correctamente las fórmulas de la ley de Faraday para resolver el problema dado
 
-* Definir y comprender la ley de ohm
+* Analizar los conceptos del capitulo 13 y 14 inductancia electromagnética y transistorios inductivos
 
-* Entender que es la potencia y energia y relacionarla con los circuitos electricos.
+* Analizar la inductancia y las configuraciones de los circuitos en serie y en paralelo calculando el voltaje y la corriente del inductor del variador de estado estable.
 
-* Seleccionar adecuadamente resistores con base en consideraciones de potencia
+* Determinar los transitorios de voltaje y corriente en el circuito RL durante la fase de caída de corriente y voltaje.
 
 # MARCO TEÓRICO
 
