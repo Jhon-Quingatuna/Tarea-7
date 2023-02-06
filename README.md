@@ -26,5 +26,13 @@ Relaciónar la corriente, voltaje y resistencia mediante la ley de ohm y poder c
 
 # MARCO TEÓRICO
 
+# EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+# VIDEOS
+
+# CONCLUSIONES
+
+# BIBLIOGRAFIA
+
 
 
