@@ -108,20 +108,15 @@ Determinar los circuitos transitorios en el circuito RL explicando el funcionami
 
 ![image](https://user-images.githubusercontent.com/116813974/217113263-7457e86b-2810-4056-913b-d78ca36a6ca8.png)
 
+![image](https://user-images.githubusercontent.com/116813974/217113401-8ed72d3a-e174-4a34-a239-7006bccb6034.png)
 
+![image](https://user-images.githubusercontent.com/116813974/217113421-31187454-49cd-4de2-b63f-b3ee9697ae5b.png)
 
+![image](https://user-images.githubusercontent.com/116813974/217113437-56fd965d-e524-4599-97cd-e42eca5662e9.png)
 
+![image](https://user-images.githubusercontent.com/116813974/217113472-32b0a445-a619-4b7c-b151-ce6dff5e091e.png)
 
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/116813974/217113510-4f64326b-b4d8-4ce6-8877-b2606080c5ca.png)
 
 # VIDEOS
 
